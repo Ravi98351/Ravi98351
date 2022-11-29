@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React,Redux,Data Base**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **Raviapk983gmail.com**
 
