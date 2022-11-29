@@ -30,7 +30,7 @@
 <h3 align="left">My Github Stats:</h3>
 <p align="center">
     <a href="https://github.com/Ravi98351/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="aniketpandey2912 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ravi98351&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="aniketpandey2912 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ravi98351&hide_border=true&theme=react&hide_border=true&bg_color=0D1117">
     </a>
 </p>                                                                                                                                              
 
