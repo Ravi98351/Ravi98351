@@ -37,7 +37,7 @@
   <br/>
   <br/>
      <p align="center">                                                                                                 
-    <a href="https://github.com/Ravi98351/github-readme-stats"><img alt="Ravi's github status" src="https://github-readme-stats.vercel.app/api?username=Ravi98351&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="Rvai98351" /></a>
+    <a href="https://github.com/Ravi98351/github-readme-status"><img alt="Ravi's github status" src="https://github-readme-stats.vercel.app/api?username=Ravi98351&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="Rvai98351" /></a>
     </p>                                                                 
  <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
 
