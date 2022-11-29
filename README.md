@@ -51,7 +51,10 @@
 
 
 <h3 align="center">Tool</h3>
-<p align="center"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>&nbsp;&nbsp&nbsp;&nbsp&nbsp;&nbsp <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50"/> </a> </p>
+<p align="center"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>&nbsp;&nbsp&nbsp;&nbsp&nbsp;&nbsp </a> <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="heroku" width="50" height="50"/> </a>&nbsp;&nbsp&nbsp;&nbsp&nbsp;&nbsp
+<a href="https://netlify.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="heroku" width="50" height="50"/> </a>&nbsp;&nbsp&nbsp;&nbsp&nbsp;&nbsp
+<a href="https://www.npmjs.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="heroku" width="50" height="50"/> </a>
+</p>
 <br/>
 
 ### Profile Visitors 
