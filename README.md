@@ -47,23 +47,30 @@
 
 
 <h2 align="left">My Github Status:</h2>
-<p align="center">
-    <a href="https://github.com/Ravi98351/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="aniketpandey2912 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ravi98351&hide_border=true&theme=react&hide_border=true&bg_color=0D1117">
-    </a>
-</p>                                                                                                                                              
-
+<div align='center'>
+ <p  display="flex">
+       <img width="45%" height="200px" alt="Ashutosh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ravi98351&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+    <img width="45%" height="200px" alt="Ashutosh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi98351&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+ </p>
+   
+</div>
 <br/>
-  <br/>
-     <p align="center">                                                                                                 
-    <a href="https://github.com/Ravi98351/github-readme-stats"><img alt="Ravi's github status" src="https://github-readme-stats.vercel.app/api?username=Ravi98351&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="Rvai98351" /></a>
-    </p>                                                                 
- <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
-<br/>
-<br/>
+<!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 
-<a href="https://github.com/Ravi98351/github-readme-activity-graph"><img alt="Ravi Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ravi98351&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  <!-- <h2 align='center'>ℹ️ &nbsp;Github Info</h2> -->
 
+<div>
+  <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
+  <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravi98351&theme=github_dark" alt="Ashutosh" align = "center"/></p>
+</div>
 
+ 
+
+<div>
+  <p align='center'><b>🏆 Github Achievements</b></p><br/>
+  <p align="center"> <a href="https://github.com/ravi98351"><img src="https://github-profile-trophy.vercel.app/?username=mr-ashu&margin-w=5&theme=radical" alt="" /></a> </p>
+</div>
+
+ <hr>
 
 
