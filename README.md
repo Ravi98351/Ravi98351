@@ -20,7 +20,11 @@
 <a href="https://linkedin.com/in/ravi roshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravi roshan" height="40" width="50" /></a>
 <a href="https://fb.com/ravi roshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ravi roshan" height="40" width="50" /></a>
 <a href="https://instagram.com/ravi_roshan_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ravi_roshan_official" height="40" width="40" /></a>
-  <a href="https://ravi98351.github.io/ravi_roshan.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ravi_roshan_official" height="40" width="40" /><a href="https://www.flaticon.com/free-icons/business-and-finance" title="business and finance icons">Business and finance icons created by IYAHICON - Flaticon</a></a>
+ <a href="https://instagram.com/ravi_roshan_official" target="blank">![image](https://user-images.githubusercontent.com/104033147/212645277-be291fbb-6060-42c7-91fa-57196040bdab.png)
+</a>
+  
+  
+  
 </p>
 <br/>
 
